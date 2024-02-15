@@ -1,0 +1,20 @@
+.Banner-Profile{
+    width: 1320px;
+height: 600px;
+    background-size: cover;
+    padding: 50px 140px;
+    border-radius: 16px;
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   background-color: black;
+   
+   background-image:  linear-gradient(180.00deg, rgb(6, 3, 12),rgba(7, 2, 17, 0) 100%), url('../resources/Banner\ Image.png');
+}
+.Banner{
+    margin-bottom: 0;
+
+}
+.first, .second{
+    z-index: 5;
+    color: white;
+}
